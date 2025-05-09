@@ -8,5 +8,5 @@ Rodrigo Cavalcanti - rcars@cesar.school
 Discipline:
 Programação Imperativa e Funcional
 
-Graduate School:
+Graduation School:
 C.E.S.A.R School
