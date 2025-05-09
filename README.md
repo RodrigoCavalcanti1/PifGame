@@ -6,7 +6,7 @@ Project Members:
 Rodrigo Cavalcanti - rcars@cesar.school
 
 Discipline:
-Programação Imperativa e Funcional
+Programação Imperativa e Funcional - 2025.1
 
 Graduation School:
 C.E.S.A.R School
