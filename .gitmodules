@@ -1,0 +1,3 @@
+[submodule "clilib"]
+	path = clilib
+	url = https://github.com/RodrigoCavalcanti1/clilib.git
